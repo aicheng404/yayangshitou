@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...workout
 - 🌱 I’m currently learning ...code basic
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...摇曳露营
 - 🤔 I’m looking for help with ...start code
 - 💬 Ask me about ...nice
 - 📫 How to reach me: ...
